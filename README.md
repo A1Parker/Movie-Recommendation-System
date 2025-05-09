@@ -40,10 +40,3 @@ This project leverages Natural Language Processing (NLP) and feature engineering
 - Optimized for performance using vectorized operations and lightweight NLP techniques.
 
 ---
-
-## 📝 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommendation-nlp.git
-   cd movie-recommendation-nlp
